@@ -31,7 +31,7 @@ const imagem document.querySelector("img");
 
 imagem.addEventListener('clique', () => {
 
-imagem.src voltaaulas.jpg:
+imagem.src: download(1).jpeg:
 
 11:
 
